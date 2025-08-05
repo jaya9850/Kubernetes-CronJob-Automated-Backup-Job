@@ -20,7 +20,7 @@ kubectl apply -f cron.yml -n nginx
 kubectl get cronjob -n nginx
 
 
-heck Jobs Created by CronJob
+Check Jobs Created by CronJob
 bash
 Copy code
 kubectl get jobs -n nginx
